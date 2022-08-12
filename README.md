@@ -1,4 +1,4 @@
-- 👋 Hi, I’m samisrhir
+- 👋 Hi, I’m Sami Srhir
 - 👀 I’m interested in computing studies
 - 🌱 I’m currently learning in school of engineering 
 - 📫 How to reach me :vansami317@gmail.com //instagram :samivan._
