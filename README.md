@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sami Srhir
-- 👀 I’m interested in Web Developement
+- 👀 I’m interested in Web Developement(Spring , Angular Frameworks)
 - 🌱 I’m currently learning in school of engineering (5th Year)
-- 📫 How to reach me :vansami317@gmail.com //instagram :samivan._
+- 📫 How to reach me :vansami317@gmail.com//srhirsami@gmai.com
